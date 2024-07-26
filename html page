@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <h1>WELCOME TO THE LIBRARY</h1>
+        <h3>required fields are followed by *</h3>
+        <p>name*<input type="name" name="text" id ="name"></p>
+        <p>
+            <select name="year" id="year" >
+        <option value=" ">select a card type></option>
+        <option value="1" >1</option>
+        <option value="2">2</option>
+            <option value="3"> 3</option>
+            <OPTION value="4">4<OPTION>
+    </select></p>
+        </p>
+ <select name="branch" id="branch" >
+ <option value=" ">select a branch type></option>
+ <option value="CSE" >CSE</option>
+ <option value="ece">ece</option>
+     <option value="it"> IT</option>
+</select><p>
+<A href="books.html">books</A></p>
+    </form>
+</body>
+</html>
